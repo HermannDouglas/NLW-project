@@ -33,7 +33,7 @@ Este projeto é uma API desenvolvida em Python utilizando o framework Flask. A a
 
 1. Clone o repositório:
     ```sh
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/HermannDouglas/NLW-project
     ```
 2. Navegue até o diretório do projeto:
     ```sh
